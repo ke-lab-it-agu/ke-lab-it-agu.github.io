@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "ホーム"
+    url: /index/ 
+  - title: "研究内容"
+    url: /research/
+  - title: "メンバー"
+    url: /members/
+  - title: "研究業績"
+    url: /publications/
+  - title: "アクセス"
+    url: /access/
