@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "ホーム"
-    url: /index/ 
+    url: /
   - title: "研究内容"
     url: /research/
   - title: "メンバー"
