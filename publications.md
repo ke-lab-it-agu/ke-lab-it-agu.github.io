@@ -27,3 +27,7 @@ layout: single
 * 小池開人, 倉持純太, 森田武史, 山口高平, "分節化を進めたオントロジーに基づく議論支援システムの構成と評価", 2020年度人工知能学会
 全国大会（第34回）, 4E2-OS-19a-03，DOI: [10.11517/pjsai.JSAI2020.0_4E2OS19a03](https://doi.org/10.11517/pjsai.JSAI2020.0_4E2OS19a03) (2020/6/12)
 * 森田武史, 高野拓海, 山口高平, "BRMSとWebサービスの連携による間接業務の効率化", 2020年度人工知能学会全国大会（第34回），4H2-GS-4-04，DOI: [10.11517/pjsai.JSAI2020.0_4H2GS404](https://doi.org/10.11517/pjsai.JSAI2020.0_4H2GS404) (2020/6/12)
+
+### その他
+* Junichiro Suzuki, Chat Dialogue System based on Knowledge Graph and Examples, Scientific seminar 2021 FJ-WISE: France-Japan Workshop on Information Science and Engineering (2021)
+
