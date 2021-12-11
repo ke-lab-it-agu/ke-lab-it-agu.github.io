@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ja"
 languages                : ["ja", "en"]
-title                    : "青山学院大学 森田研究室"
+title                    : "青山学院大学 知識工学研究室"
 title_separator          : "-"
-subtitle                 : 理工学部情報テクノロジー学科 <br> Knowledge Engineering Lab
-name                     : "青山学院大学理工学部情報テクノロジー学科 森田研究室"
-description              : "青山学院大学理工学部情報テクノロジー学科 森田研究室"
+subtitle                 : 理工学部情報テクノロジー学科 森田研究室 
+name                     : "青山学院大学理工学部情報テクノロジー学科 知識工学研究室"
+description              : "青山学院大学理工学部情報テクノロジー学科 知識工学研究室"
 url                      : "https://ke.it.aoyama.ac.jp"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
