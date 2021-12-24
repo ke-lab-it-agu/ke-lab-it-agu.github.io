@@ -4,12 +4,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/splash/lab_image_3.jpeg
-excerpt: "理工学部情報テクノロジー学科 森田研究室<br/><br/><br/>"
+excerpt: "理工学部情報テクノロジー学科 <br/> 大学院理工学研究科知能情報コース <br/> 森田研究室"
 ---
 
 森田研究室では，人工知能が利用・共有可能な知識の構築と洗練，異なる知識の統合，推論を用いた知識の導出，知識を利用した計算機システム（対話システムや質問応答システムなど），統合知能アプリケーション開発プラットフォーム，ユーモアを対象とした自然言語処理の応用などに関する研究を行っています．
 # ニュース
 ## 2021年度ニュース
+* 2021年12月18日：2021年度第4回鷲見研・楽研・森田研合同研究発表会が開催されました．
 * 2021年12月6日：修士2年生のスホルクワイク亜蘭さんが[The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/)で発表しました．
 * 2021年11月26日：修士2年生のスホルクワイク亜蘭さんと吉兼拓生さんが[第55回人工知能学会セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/55program)で発表しました．
 * 2021年10月23日：2021年度第3回鷲見研・森田研合同研究発表会が開催されました．

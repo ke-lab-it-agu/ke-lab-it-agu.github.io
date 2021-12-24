@@ -1,5 +1,5 @@
 ---
-title: アクセス
+title: 連絡先
 layout: single
 ---
 

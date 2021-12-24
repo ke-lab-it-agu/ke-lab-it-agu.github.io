@@ -2,11 +2,35 @@
 main:
   - title: "ホーム"
     url: /
-  - title: "研究内容"
+  - title: "研究"
     url: /research/
-  - title: "メンバー"
-    url: /members/
-  - title: "研究業績"
+  - title: "発表"
     url: /publications/
-  - title: "アクセス"
-    url: /access/
+  - title: "構成員"
+    url: /members/
+  - title: "連絡先"
+    url: /contact/
+
+research:
+  - title: "研究"
+    children:
+      - title: "研究概要"
+        url: /research/#研究概要
+      - title: "主な研究テーマ"
+        url: /research/#主な研究テーマ
+      - title: "修士研究テーマ"
+        url: /research/#修士研究テーマ
+      - title: "卒業研究テーマ"
+        url: /research/#卒業研究テーマ
+
+publications:
+  - title: "発表文献"
+    children:
+      - title: "学術雑誌"
+        url: /publications/#学術雑誌
+      - title: "国際会議・ワークショップ"
+        url: /publications/#国際会議ワークショップ
+      - title: "研究会・全国大会"
+        url: /publications/#研究会全国大会
+      - title: "その他"
+        url: /publications/#その他
