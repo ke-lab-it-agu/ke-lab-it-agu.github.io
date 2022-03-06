@@ -8,7 +8,7 @@ layout: single
 ## 助教
 * [谷津元樹](https://researchmap.jp/m-yatsu)
 
-## 修士2年生
+## 博士前期課程2年生
 * スホルクワイク亜蘭
 * 吉兼拓生
 

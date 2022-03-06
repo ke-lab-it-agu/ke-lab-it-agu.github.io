@@ -13,12 +13,12 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 * 2022年3月16日：学部4年生の井上蒼一朗さんが[言語処理学会第28回年次大会](https://www.anlp.jp/nlp2022/program.html#F5-5)で発表しました．
 * 2022年3月11日：学部4年生の澤村勇輝さんと鈴木七星さんが[第56回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/56program)で発表しました．
 * 2022年3月6日：学部4年生の井上恵彰さんと掛川夏海さんが[第94回 言語・音声理解と対話処理研究会](https://jsai-slud.github.io/sig-slud/94th-sig.html)で発表しました．
-* 2022年3月3日・5日：修士2年生のスホルクワイク亜蘭さんと吉兼拓生さんが[情報処理学会 第84回全国大会](https://www.ipsj.or.jp/event/taikai/84/index.html)で発表しました．
+* 2022年3月3日・5日：博士前期課程2年生のスホルクワイク亜蘭さんと吉兼拓生さんが[情報処理学会 第84回全国大会](https://www.ipsj.or.jp/event/taikai/84/index.html)で発表しました．
 * 2022年2月6日：森田武史准教授が放送大学番組：[数理・データサイエンス・ＡＩ　専門講座
 『AIプロデューサー～人とAIの連携～』](https://www.ouj.ac.jp/hp/o_itiran/2022/0126.html)，第２回：製造業とＡＩにゲストとして出演しました．
 * 2021年12月18日：2021年度第4回鷲見研・楽研・森田研合同研究発表会が開催されました．
-* 2021年12月6日：修士2年生のスホルクワイク亜蘭さんが[The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/)で発表しました．
-* 2021年11月26日：修士2年生のスホルクワイク亜蘭さんと吉兼拓生さんが[第55回人工知能学会セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/55program)で発表しました．
+* 2021年12月6日：博士前期課程2年生のスホルクワイク亜蘭さんが[The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/)で発表しました．
+* 2021年11月26日：博士前期課程2年生のスホルクワイク亜蘭さんと吉兼拓生さんが[第55回人工知能学会セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/55program)で発表しました．
 * 2021年10月23日：2021年度第3回鷲見研・森田研合同研究発表会が開催されました．
 * 2021年7月31日：2021年度第2回鷲見研・楽研・森田研合同研究発表会が開催されました．
 * 2021年7月20日：森田武史准教授が[NEMO Summerschool 2021](https://nemo.omilab.org/2021/)で発表しました．
@@ -28,7 +28,7 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 ## 2020年度ニュース
 * 2021年3月12日：学部4年生の鈴木純一郎さんがFJ-WISE: France-Japan Workshop on Information Science and Engineeringで発表しました．
 * 2021年2月3日・4日：2020年度卒業研究会が開催されました．
-* 2020年12月5日：修士1年生のスホルクワイク亜蘭さんと吉兼拓生さんが[第16回情報システム学会全国大会・研究発表大会](https://www.issj.net/conf/issj2020/)で発表しました．
+* 2020年12月5日：博士前期課程1年生のスホルクワイク亜蘭さんと吉兼拓生さんが[第16回情報システム学会全国大会・研究発表大会](https://www.issj.net/conf/issj2020/)で発表しました．
 * 2020年12月19日：2020年度第4回鷲見研・森田研合同研究発表会が開催されました．
 * 2020年10月24日：2020年度第3回鷲見研・森田研合同研究発表会が開催されました．
 * 2020年8月1日：2020年度第2回鷲見研・森田研合同研究発表会が開催されました．
