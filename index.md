@@ -10,7 +10,7 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 青山学院大学 知識工学研究室では，人工知能が利用・共有可能な知識の構築と洗練，異なる知識の統合，推論を用いた知識の導出，知識を利用した計算機システム（対話システムや質問応答システムなど），統合知能アプリケーション開発プラットフォーム，ユーモアを対象とした自然言語処理の応用などに関する研究を行っています．
 # ニュース
 ## 2021年度ニュース
-* 2022年3月17日：森田武史准教授が分担執筆（pp. 435-455 [Generating ROS Codes from User-Level Workflow in PRINTEPS](https://link.springer.com/chapter/10.1007/978-3-030-93547-4_19)）した書籍「[Domain-Specific Conceptual Modeling](https://link.springer.com/book/10.1007/978-3-030-93547-4)」がSpringerから出版されました．
+* 2022年3月17日：森田武史准教授が分担執筆（pp. 435-455 [Generating ROS Codes from User-Level Workflow in PRINTEPS](https://doi.org/10.1007/978-3-030-93547-4_19)）した書籍「[Domain-Specific Conceptual Modeling](https://doi.org/10.1007/978-3-030-93547-4)」がSpringerから出版されました．
 * 2022年3月16日：学部4年生の井上蒼一朗さんが[言語処理学会第28回年次大会](https://www.anlp.jp/nlp2022/program.html#F5-5)で発表しました．
 * 2022年3月11日：学部4年生の澤村勇輝さんと鈴木七星さんが[第56回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/56program)で発表しました．
 * 2022年3月6日：学部4年生の井上恵彰さんと掛川夏海さんが[第94回 言語・音声理解と対話処理研究会](https://jsai-slud.github.io/sig-slud/94th-sig.html)で発表しました．
