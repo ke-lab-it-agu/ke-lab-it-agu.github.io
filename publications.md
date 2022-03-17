@@ -5,6 +5,9 @@ sidebar:
   nav: "publications"
 ---
 
+## 書籍
+* Takeshi Morita, Takahira Yamaguchi, Generating ROS Codes from User-Level Workflow in PRINTEPS. In: Karagiannis, D., Lee, M., Hinkelmann, K., Utz, W. (eds) Domain-Specific Conceptual Modeling. Springer, Cham., DOI: [10.1007/978-3-030-93547-4_19](https://doi.org/10.1007/978-3-030-93547-4_19) (2022)
+
 ## 学術雑誌
 * 川上時生, 森田武史, 山口高平, "英語版ウィキペディアからプロパティ公理を備えたオントロジーの構築と評価", 人工知能学会論文誌, Vol. 35, No. 4, pp. D-J33_1-14, DOI: [10.1527/tjsai.D-J33](https://doi.org/10.1527/tjsai.D-J33) (2020)
 * 川上時生, 森田武史, 山口高平, "英語版ウィキペディアオントロジーの構築とYAGOおよびDBpediaとの比較評価", 人工知能学会論文誌, Vol. 35, No. 4, pp. C-J32_1-14, DOI: [10.1527/tjsai.C-J32](https://doi.org/10.1527/tjsai.C-J32) (2020)
