@@ -24,7 +24,7 @@ name                     : "青山学院大学理工学部情報テクノロジ�
 description              : "青山学院大学理工学部情報テクノロジー学科 知識工学研究室"
 url                      : "https://ke.it.aoyama.ac.jp"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "t-morita-laboratory/t-morita-laboratory.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #/assets/images/coffee.jpg # 500 x 300
 logo                     : /assets/images/logo.png
 masthead_title           : " "# overrides the website title displayed in the masthead, use " " for no title
@@ -109,14 +109,14 @@ author:
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/t-morita-laboratory"
 
 
 # Reading Files
