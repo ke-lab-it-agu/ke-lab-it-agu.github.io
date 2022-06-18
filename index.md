@@ -11,6 +11,8 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 # ニュース
 
 ## 2022年度ニュース
+* 2022年6月15日・17日：博士前期課程1年生の浅野歴さんと澤村勇輝さんが[2022年度人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)で発表しました．
+* 2022年6月6日：2022年3月に博士前期課程を卒業したスホルクワイクさん，谷津助教，森田准教授の論文がMDPI (Multidisciplinary Digital Publishing Institute)の[Special Issue "Knowledge Graph Technology and Its Applications"](https://www.mdpi.com/journal/information/special_issues/knowledge_graph_technology)に掲載されました．
 * 2022年4月16日：「[構成員]({{site.baseurl}}/members)」ページに，2022年度構成員を追加しました．
 
 ## 2021年度ニュース

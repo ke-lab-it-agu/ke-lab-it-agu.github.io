@@ -9,14 +9,18 @@ sidebar:
 * Takeshi Morita, Takahira Yamaguchi: Generating ROS Codes from User-Level Workflow in PRINTEPS. In: Karagiannis, D., Lee, M., Hinkelmann, K., Utz, W. (eds) Domain-Specific Conceptual Modeling. Springer, Cham., DOI: [10.1007/978-3-030-93547-4_19](https://doi.org/10.1007/978-3-030-93547-4_19) (2022).
 
 ## 学術雑誌
-* 川上時生，森田武史，山口高平：英語版ウィキペディアからプロパティ公理を備えたオントロジーの構築と評価，人工知能学会論文誌，Vol.35，No.4，pp.D-J33_1-14，DOI：[10.1527/tjsai.D-J33](https://doi.org/10.1527/tjsai.D-J33) (2020)．
-* 川上時生，森田武史，山口高平：英語版ウィキペディアオントロジーの構築とYAGOおよびDBpediaとの比較評価，人工知能学会論文誌，Vol.35，No.4，pp.C-J32_1-14，DOI：[10.1527/tjsai.C-J32](https://doi.org/10.1527/tjsai.C-J32) (2020)．
+* Alan Schalkwijk, Motoki Yatsu, and Takeshi Morita: An Interactive Virtual Home Navigation System Based on Home Ontology and Commonsense Reasoning, Information 13, No. 6: 287, DOI: [10.3390/info13060287](https://doi.org/10.3390/info13060287) (2022.6).
+* 川上時生，森田武史，山口高平：英語版ウィキペディアからプロパティ公理を備えたオントロジーの構築と評価，人工知能学会論文誌，Vol.35，No.4，pp.D-J33_1-14，DOI：[10.1527/tjsai.D-J33](https://doi.org/10.1527/tjsai.D-J33) (2020.7)．
+* 川上時生，森田武史，山口高平：英語版ウィキペディアオントロジーの構築とYAGOおよびDBpediaとの比較評価，人工知能学会論文誌，Vol.35，No.4，pp.C-J32_1-14，DOI：[10.1527/tjsai.C-J32](https://doi.org/10.1527/tjsai.C-J32) (2020.7)．
 
 ## 国際会議・ワークショップ
 * Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 研究会・全国大会
-* 井上蒼一朗，谷津元樹，森田武史：重畳型駄洒落ユーモアにおける常識的知識グラフを用いた潜在表現抽出，言語処理学会第28回年次大会，F5-5 (2022.3)．<!-- 2022/3/16 -->
+* 浅野歴，谷津元樹，森田武史：画像キャプション生成に基づく描画内容に即した駄洒落文の選択手法，2022年度人工知能学会全国大会（第36回），4D3-GS-6-01 (2022.6)． <!-- 2022/6/17 -->
+* 福田賢一郎，江上周作，鵜飼孝典，森田武史，大野美喜子，北村光司，QIU YUE，原健翔，古崎晃司，川村隆浩：イベント中心知識グラフによる人間生活を含む環境のサイバー空間への転写にむけて，2022年度人工知能学会全国大会（第36回），3L4-GS-8 (2022.6)．<!-- 2022/6/16 -->
+* 澤村勇輝，谷津元樹，森田武史：DBpediaを対象とした日本語エンティティリンキング，2022年度人工知能学会全国大会（第36回），2E6-GS-3，[ソースコード](https://github.com/t-morita-laboratory/dbpedia-spotlight-model/blob/master/README.ja.md) (2022.6)．<!-- 2022/6/15 -->
+* 井上蒼一朗，谷津元樹，森田武史：重畳型駄洒落ユーモアにおける常識的知識グラフを用いた潜在表現抽出，言語処理学会第28回年次大会，F5-5，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/F5-5.pdf) (2022.3)．<!-- 2022/3/16 -->
 * 鈴木七星，谷津元樹，森田武史：雑談対話システムのためのユーザ発話とSPARQLテンプレートを用いた大規模知識グラフからのユーザ知識グラフ抽出，第56回人工知能学会 セマンティックウェブとオントロジー研究会，SIG-SWO-056-03，DOI：[10.11517/jsaisigtwo.2022.SWO-056_03](https://doi.org/10.11517/jsaisigtwo.2022.SWO-056_03) (2022.3)．<!-- 2022/3/11 -->
 * 澤村勇輝，谷津元樹，森田武史：日本語形態素解析を導入したDBpedia Spotlightに基づく日本語エンティティリンキング，第56回人工知能学会 セマンティックウェブとオントロジー研究会，SIG-SWO-056-02，DOI：[10.11517/jsaisigtwo.2022.SWO-056_02](https://doi.org/10.11517/jsaisigtwo.2022.SWO-056_02) (2022.3)． <!-- 2022/3/11 -->
 * 掛川夏海，谷津元樹，森田武史：汎用的自然言語処理フレームワークへのボケ検出機構の統合，第94回人工知能学会 言語・音声理解と対話処理研究会，DOI：[10.11517/jsaislud.94.0_09](https://doi.org/10.11517/jsaislud.94.0_09) (2022.3)． <!-- 2022/3/6 -->
