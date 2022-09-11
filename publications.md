@@ -21,6 +21,7 @@ sidebar:
 * Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 研究会・全国大会
+* Ken Fukuda, Takanori Ugai, Mikiko Oono, Koji Kitamura, Fumiya Kubota, Takeshi Morita, Swe Nwe Nwe Htun, Shusaku Egami: Daily Activity data generation in Cyberspace for Semantic AI technology and HRI simulation，第40回日本ロボット学会学術講演会, 3J1-03 (2022.9) <!--東京大学本郷キャンパス，東京都文京区，2022/9/7 -->
 * 浅野歴，谷津元樹，森田武史：キャプション及び物体認識ラベルを用いた画像に関連する駄洒落文の選択手法，情報処理学会 第252回自然言語処理研究会，Vol.2022-NL-252 No.11 (2022.6)． <!-- 2022/6/29 -->
 * 浅野歴，谷津元樹，森田武史：画像キャプション生成に基づく描画内容に即した駄洒落文の選択手法，2022年度人工知能学会全国大会（第36回），4D3-GS-6-01 (2022.6)． <!-- 2022/6/17 -->
 * 福田賢一郎，江上周作，鵜飼孝典，森田武史，大野美喜子，北村光司，QIU YUE，原健翔，古崎晃司，川村隆浩：イベント中心知識グラフによる人間生活を含む環境のサイバー空間への転写にむけて，2022年度人工知能学会全国大会（第36回），3L4-GS-8 (2022.6)．<!-- 2022/6/16 -->
