@@ -26,8 +26,14 @@ research:
 publications:
   - title: "発表文献"
     children:
+      - title: "受賞"
+        url: /publications/#受賞
+      - title: "書籍"
+        url: /publications/#書籍
       - title: "学術雑誌"
         url: /publications/#学術雑誌
+      - title: "専門誌"
+        url: /publications/#専門誌
       - title: "国際会議・ワークショップ"
         url: /publications/#国際会議ワークショップ
       - title: "研究会・全国大会"
