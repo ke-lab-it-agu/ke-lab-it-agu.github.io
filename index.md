@@ -11,7 +11,9 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 # ニュース
 
 ## 2023年度ニュース
+* 2023年5月1日：2022年3月に博士前期課程を卒業した吉兼拓生さん，谷津助教，森田教授の論文「[知識グラフに基づく質問応答システムにおける論理形式パターンを用いた論理形式検索の改善](https://doi.org/10.1527/tjsai.38-3_I-M92)」が人工知能学会論文誌に掲載されました．
 * 2023年4月11日：「[構成員]({{site.baseurl}}/members)」ページに，2023年度構成員を追加しました．
+* 2023年4月1日：森田教授が申請した科研費基盤研究(C)の研究課題：[常識・行動・領域知識に基づき家庭内行動を推論する対話エージェントシステムの開発](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K11221/)（23K11221）が採択されました．
 
 ## 2022年度ニュース
 * 2023年3月18日：学部4年生の貞誉志樹さんと谷津助教が[第71回ことば工学研究会](http://ultimavi.arc.net.my/banana/Workshop/)で発表しました．
@@ -30,7 +32,7 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 * 2022年6月29日：博士前期課程1年生の浅野歴さんが[情報処理学会 第252回自然言語処理研究会](https://nl-ipsj.or.jp/2022/06/13/nl252-program/)で発表しました．
 * 2022年6月22日：2022年3月に博士前期課程を卒業した吉兼拓生さん，谷津助教，森田准教授が人工知能学会 第55回セマンティックウェブとオントロジー研究会で発表した研究「[知識グラフに基づく質問応答における論理形式パターンを用いた論理形式検索の高速化](https://doi.org/10.11517/jsaisigtwo.2021.SWO-055_03)」が2021年度[人工知能学会研究会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/)を受賞しました．
 * 2022年6月15日・17日：博士前期課程1年生の浅野歴さんと澤村勇輝さんが[2022年度人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)で発表しました．
-* 2022年6月6日：2022年3月に博士前期課程を卒業したスホルクワイクさん，谷津助教，森田准教授の論文がMDPI (Multidisciplinary Digital Publishing Institute)の[Special Issue "Knowledge Graph Technology and Its Applications"](https://www.mdpi.com/journal/information/special_issues/knowledge_graph_technology)に掲載されました．
+* 2022年6月6日：2022年3月に博士前期課程を卒業したスホルクワイクさん，谷津助教，森田准教授の論文「[An Interactive Virtual Home Navigation System Based on Home Ontology and Commonsense Reasoning](https://doi.org/10.3390/info13060287)」がMDPI (Multidisciplinary Digital Publishing Institute)の[Special Issue "Knowledge Graph Technology and Its Applications"](https://www.mdpi.com/journal/information/special_issues/knowledge_graph_technology)に掲載されました．
 * 2022年4月16日：「[構成員]({{site.baseurl}}/members)」ページに，2022年度構成員を追加しました．
 
 ## 2021年度ニュース
