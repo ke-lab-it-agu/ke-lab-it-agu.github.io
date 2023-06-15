@@ -25,6 +25,9 @@ sidebar:
 * Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 研究会・全国大会
+* 澤村勇輝，谷津元樹，森田武史，江上周作，鵜飼孝典，福田賢一郎：大規模知識グラフを対象とした英語エンティティリンキングモデルの日本語対応における課題の分析，2023年度人工知能学会全国大会（第37回），4G2-OS-24c-03 (2023.6)．<!-- 2023/6/9 -->
+* 青山仁，谷津元樹，森田武史：VirtualHomeを対象とした日常生活行動説明文からのアクションスクリプト自動生成，2023年度人工知能学会全国大会（第37回），3G5-OS-24b-02 (2023.6)．<!-- 2023/6/8 -->
+* 浅野歴，濱道光希，牟耕，森俊人，矢野翔平，森田武史：知識グラフとGPTを用いた家庭内の危険行動の検知と説明，2023年度人工知能学会全国大会（第37回），3G1-OS-24a-03 (2023.6)．<!-- 2023/6/8 -->
 * 貞誉志樹，谷津元樹，森田武史：常識的知識グラフに基づく理解容易性及びユーモア性を考慮した直喩表現生成，人工知能学会第2種研究会 第71回ことば工学研究会，(2023.3)．<!-- 2023/3/18 -->
 * 谷津元樹，稲垣ルイ，田羅間大晴，森田武史：汎用的言語理解フレームワークに基づく統合型駄洒落雑談対話システムの構築と評価，人工知能学会第2種研究会 第71回ことば工学研究会， (2023.3)．<!-- 2023/3/18 -->
 * 志方脩，谷津元樹，森田武史：常識的知識グラフ及び単語埋め込みを用いた重畳型駄洒落ユーモア認識，言語処理学会第29回年次大会，B9-3，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B9-3.pdf) (2023.3)． <!-- 2023/3/15 -->
