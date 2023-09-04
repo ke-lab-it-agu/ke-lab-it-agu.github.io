@@ -3,6 +3,10 @@ title: 過去の構成員
 layout: single
 ---
 
+## 2023年度
+### 助教
+* [谷津元樹](https://www.agnes.aoyama.ac.jp/iit/in-memory-of-yatsu-motoki-sensei)
+
 ## 2022年度
 
 ### 学部4年生

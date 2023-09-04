@@ -5,9 +5,6 @@ layout: single
 ### 教授
 * [森田武史](https://takeshi-morita.jp/index-ja.html)
 
-### 助教
-* [谷津元樹](https://researchmap.jp/m-yatsu)
-
 ### 博士前期課程2年生
 * 浅野歴
 * 澤村勇輝
