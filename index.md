@@ -11,6 +11,7 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 # ニュース
 
 ## 2023年度ニュース
+* 2023年12月8日・9日：博士前期課程2年生の澤村勇輝さんと博士前期課程1年生の青山仁さんが [The 12th International Joint Conference on Knowledge Graphs (IJCKG 2023)](https://ijckg2023.knowledge-graph.jp/) で発表しました．
 * 2023年11月25日：博士前期課程1年生の青山仁さんが[第61回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/61program)で発表しました．
 * 2023年11月11日：2023年度第3回鷲見研・森田研合同研究発表会が開催されました．
 * 2023年9月4日：2023年7月25日に当研究室の谷津元樹助教がご逝去されました．谷津先生のこれまでの多大なご尽力と貢献に深く感謝するとともに，心からご冥福をお祈り致します．谷津先生のご遺徳を偲び、当学科において[追悼ページ](https://www.agnes.aoyama.ac.jp/iit/in-memory-of-yatsu-motoki-sensei)を作成しました。
