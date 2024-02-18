@@ -22,6 +22,8 @@ sidebar:
 * 浅野歴，谷津元樹，森田武史：キャプション及び物体認識ラベルを用いた描画内容に即した駄洒落文の選択手法，画像ラボ，Vol.34，No.3，pp.59-65，[雑誌入手先](https://www.nikko-pb.co.jp/products/detail.php?product_id=5491) (2023.3).
 
 ## 国際学会発表
+* Tomohiro Ogawa, Kango Yoshioka, Ken Fukuda, Takeshi Morita: Prediction of actions and places by the time series recognition from images with Multimodal LLM, Proceedings of the International Knowledge Graph Reasoning Challenge 2024, pp. 294-300 (2024.2). <!-- 2024/2/8 -->
+* Tsukasa Hirano, Kengo Ozaki, Takeshi Morita: Prediction of Actions and Objects through Video Analysis Using Stepwise Prompt, Proceedings of the International Knowledge Graph Reasoning Challenge 2024, pp. 289-293 (2024.2). <!-- 2024/2/8 -->
 * Yuki Sawamura, Takeshi Morita, Shusaku Egami, Takanori Ugai, Ken Fukuda: Japanese Pointer Network based Entity Linker for Wikidata, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023.12) <!-- 2023/12/9 -->
 * Jin Aoyama, Takeshi Morita, Takanori Ugai, Shusaku Egami, Ken Fukuda: Automatic Action Script Generation to Improve Execution Rate based on LLM in VirtualHome, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023.12) <!-- 2023/12/8 -->
 * Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/2021/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
