@@ -11,6 +11,16 @@ main:
   - title: "連絡先"
     url: /contact/
 
+news:
+  - title: "ニュース"
+    children:
+      - title: "2022年度ニュース"
+        url: /news/#2022年度ニュース
+      - title: "2021年度ニュース"
+        url: /news/#2021年度ニュース
+      - title: "2020年度ニュース"
+        url: /news/#2020年度ニュース                
+
 research:
   - title: "研究"
     children:
