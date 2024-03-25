@@ -29,6 +29,12 @@ sidebar:
 * Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/2021/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 国内学会発表
+* 浅野歴，森田武史，江上周作，鵜飼孝典，福田賢一郎：マルチモーダル大規模言語モデルと画像キャプションに基づく描画内容に即した併置型駄洒落の認識，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-11 (2024.3). <!-- 2024/3/24> DOI：[10.11517/jsaisigtwo.2024.SWO-062_11](https://doi.org/10.11517/jsaisigtwo.2024.SWO-062_11)-->
+* 森俊人，森田武史，鵜飼孝典，江上周作，福田賢一郎：DBpediaオントロジーとGPTに基づくWikipediaの赤リンクを用いたDBpediaの拡張，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-09 (2024.3). <!-- 2024/3/23> DOI：[10.11517/jsaisigtwo.2024.SWO-062_09](https://doi.org/10.11517/jsaisigtwo.2024.SWO-062_09)-->
+* 三辻史哉，澤村勇輝，森田武史：Wikidataを対象とした大規模言語モデルに基づくエンティティリンキング，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-08 (2024.3). <!-- 2024/3/23> DOI：[10.11517/jsaisigtwo.2024.SWO-062_08](https://doi.org/10.11517/jsaisigtwo.2024.SWO-062_08)-->
+* 穴口 史将，森田 武史：日常生活行動知識グラフとRAGに基づく家庭内危険行動の理由と根拠提示システム，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-05 (2024.3). <!-- 2024/3/23> DOI：[10.11517/jsaisigtwo.2024.SWO-062_05](https://doi.org/10.11517/jsaisigtwo.2024.SWO-062_05)-->
+* 後藤颯志，浅野歴，森田武史：シーングラフとGPTに基づく画像に関連する併置型駄洒落生成，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-04 (2024.3). <!-- 2024/3/23> DOI：[10.11517/jsaisigtwo.2024.SWO-062_04](https://doi.org/10.11517/jsaisigtwo.2024.SWO-062_04)-->
+* 森田武史，福澤一吉，山口高平：議論モデルに基づく知識推論と生成AIの統合に基づくAI議論パートナー，情報処理学会 第86回全国大会，7B-03 (2024.3). <!-- 2024/3/17 -->
 * 青山仁，森田武史，鵜飼孝典，江上周作，福田賢一郎：LLMを活用した抽象的なタスク記述からのVirtualHomeのためのアクションスクリプト自動生成，人工知能学会第二種研究会 第61回セマンティックウェブとオントロジー研究会，SIG-SWO-061-10, DOI：[10.11517/jsaisigtwo.2023.SWO-061_10](https://doi.org/10.11517/jsaisigtwo.2023.SWO-061_10) (2023.11)．<!-- 2023/11/25 -->
 * 澤村勇輝，谷津元樹，森田武史，江上周作，鵜飼孝典，福田賢一郎：大規模知識グラフを対象とした英語エンティティリンキングモデルの日本語対応における課題の分析，2023年度人工知能学会全国大会（第37回），4G2-OS-24c-03，DOI: [10.11517/pjsai.JSAI2023.0_4G2OS24c03](https://doi.org/10.11517/pjsai.JSAI2023.0_4G2OS24c03) (2023.6)．<!-- 2023/6/9 -->
 * 青山仁，谷津元樹，森田武史：VirtualHomeを対象とした日常生活行動説明文からのアクションスクリプト自動生成，2023年度人工知能学会全国大会（第37回），3G5-OS-24b-02，DOI: [10.11517/pjsai.JSAI2023.0_3G5OS24b02](https://doi.org/10.11517/pjsai.JSAI2023.0_3G5OS24b02) (2023.6)．<!-- 2023/6/8 -->
