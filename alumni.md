@@ -7,6 +7,20 @@ layout: single
 ### 助教
 * [谷津元樹](https://www.agnes.aoyama.ac.jp/iit/in-memory-of-yatsu-motoki-sensei)
 
+### 博士前期課程
+* 浅野歴
+* 澤村勇輝
+* 森俊人
+
+### 学部4年生
+* 石島康裕
+* 岩波咲太朗
+* 内山響
+* 菊地顕裕
+* 清水優俊
+* 宮本侑弥
+* 矢野竜悠
+
 ## 2022年度
 
 ### 学部4年生
