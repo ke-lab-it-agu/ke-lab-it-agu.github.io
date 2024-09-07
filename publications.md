@@ -29,6 +29,8 @@ sidebar:
 * Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/2021/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 国内学会発表
+* 李想，チャクラボルティ シュデシナ，森田武史：知識グラフと大規模言語モデルに基づく基礎疾患を有する患者を対象としたレシピ推薦システムの検討，人工知能学会第二種研究会 第63回セマンティックウェブとオントロジー研究会，SIG-SWO-063-10 (2024.9)．<!-- 2024/9/5 -->
+* 青山仁，チャクラボルティ シュデシナ，森田武史，鵜飼孝典，江上周作，福田賢一郎：大規模言語モデルを用いたオブジェクトの状態と関係に基づく家庭内タスクプランニング，人工知能学会第二種研究会 第63回セマンティックウェブとオントロジー研究会，SIG-SWO-063-10 (2024.9)．<!-- 2024/9/5 -->
 * 三辻史哉，澤村勇輝，森田武史：Wikidataを対象としたGPTに基づくエンティティリンキング，2024年度人工知能学会全国大会（第38回），1G5-OS-26b-03，DOI：[10.11517/pjsai.JSAI2024.0_1G5OS26b03](https://doi.org/10.11517/pjsai.JSAI2024.0_1G5OS26b03) (2024.5)．<!-- 2024/5/28 -->
 * 内山響，青山仁，森田武史：GPTに基づくユーザの潜在的要求の推論と対話型ナビゲーション，2024年度人工知能学会全国大会（第38回），1G5-OS-26b-02，DOI：[10.11517/pjsai.JSAI2024.0_1G5OS26b02](https://doi.org/10.11517/pjsai.JSAI2024.0_1G5OS26b02) (2024.5)．<!-- 2024/5/28 -->
 * 青山仁，森田武史，鵜飼孝典，江上周作，福田賢一郎：LLMの常識知識を活用した日常生活データセット自動構築手法の提案，2024年度人工知能学会全国大会（第38回），1G5-OS-26b-01，DOI：[10.11517/pjsai.JSAI2024.0_1G5OS26b01](https://doi.org/10.11517/pjsai.JSAI2024.0_1G5OS26b01) (2024.5)．<!-- 2024/5/28 -->
