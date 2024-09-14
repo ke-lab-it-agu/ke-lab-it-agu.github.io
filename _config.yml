@@ -24,7 +24,7 @@ name                     : "青山学院大学理工学部情報テクノロジ�
 description              : "青山学院大学理工学部情報テクノロジー学科 知識工学研究室"
 url                      : "https://ke.it.aoyama.ac.jp"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "t-morita-laboratory/t-morita-laboratory.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ke-lab-it-agu/ke-lab-it-agu.github.io" 
 teaser                   : #/assets/images/coffee.jpg # 500 x 300
 #logo                     : /assets/images/logo.png
 masthead_title           : "青山学院大学 知識工学研究室"# overrides the website title displayed in the masthead, use " " for no title
