@@ -13,6 +13,7 @@ sidebar:
 * Takeshi Morita, Takahira Yamaguchi: Generating ROS Codes from User-Level Workflow in PRINTEPS. In: Karagiannis, D., Lee, M., Hinkelmann, K., Utz, W. (eds) Domain-Specific Conceptual Modeling. Springer, Cham., DOI: [10.1007/978-3-030-93547-4_19](https://doi.org/10.1007/978-3-030-93547-4_19) (2022).
 
 ## 学術雑誌
+* 澤村勇輝，森田武史，江上周作，鵜飼孝典，福田賢一郎：Wikidata を対象としたPointer Network に基づく日本語エンティティリンキングモデルの構築と評価，人工知能学会論文誌，Vol.39，No.6，pp.C-O42_1-14，DOI：[10.1527/tjsai.39-6_C-O42](https://doi.org/10.1527/tjsai.39-6_C-O42) (2024.11).
 * 吉兼拓生, 谷津元樹, 森田武史：知識グラフに基づく質問応答システムにおける論理形式パターンを用いた論理形式検索の改善，人工知能学会論文誌，Vol.38，No.3，pp.I-M92_1-13，DOI：[10.1527/tjsai.38-3_I-M92](https://doi.org/10.1527/tjsai.38-3_I-M92) (2023.5).
 * Alan Schalkwijk, Motoki Yatsu, and Takeshi Morita: An Interactive Virtual Home Navigation System Based on Home Ontology and Commonsense Reasoning, Information 13, No. 6: 287, DOI: [10.3390/info13060287](https://doi.org/10.3390/info13060287) (2022.6).
 * 川上時生，森田武史，山口高平：英語版ウィキペディアからプロパティ公理を備えたオントロジーの構築と評価，人工知能学会論文誌，Vol.35，No.4，pp.D-J33_1-14，DOI：[10.1527/tjsai.D-J33](https://doi.org/10.1527/tjsai.D-J33) (2020.7)．
