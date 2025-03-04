@@ -28,6 +28,7 @@ sidebar:
 
 ## 国際学会発表
 
+- Jin Aoyama, Sudesna Chakraborty, Takeshi Morita, Shusaku Egami, Takanori Ugai, Ken Fukuda: Household Task Planning with Multi-Objects State and Relationship Using Large Language Models Based Preconditions Verification, Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 2: ICAART, SciTePress, pp.472-483, DOI: [10.5220/0013188400003890](https://doi.org/10.1109/10.5220/0013188400003890) (2025.11) <!-- 2025/2/24 -->
 - Fumiya Mitsuji, Sudesna Chakraborty, Takeshi Morita, Shusaku Egami, Takanori Ugai and Ken Fukuda: Entity Linking for Wikidata using Large Language Models and Wikipedia Links, Proceedings of the Twelfth International Symposium on Computing and Networking Workshops (CANDARW 2024), pp. 144-149, DOI: [10.1109/CANDARW64572.2024.00030](https://doi.org/10.1109/CANDARW64572.2024.00030) (2024.11) <!-- 2024/11/29 -->
 - Fumikatsu Anaguchi, Sudesna Chakraborty, Takeshi Morita, Shusaku Egami, Takanori Ugai and Ken Fukuda: Reasoning and Justification System for Domestic Hazardous Behaviors Based on Knowledge Graph of Daily Activities and Retrieval-Augmented Generation, Proceedings of the the Twelfth International Symposium on Computing and Networking (CANDAR 2024), pp.11-20, DOI: [10.1109/CANDAR64496.2024.00010](https://doi.org/10.1109/CANDAR64496.2024.00010) (2024.11) <!-- 2024/11/27 -->
 - Tomohiro Ogawa, Kango Yoshioka, Ken Fukuda, Takeshi Morita: Prediction of actions and places by the time series recognition from images with Multimodal LLM, Proceedings of the 2024 IEEE 18th International Conference on Semantic Computing (ICSC), International Knowledge Graph Reasoning Challenge 2024, pp. 294-300, DOI: [10.1109/ICSC59802.2024.00053](https://doi.org/10.1109/ICSC59802.2024.00053) (2024.2). <!-- 2024/2/8 -->
@@ -37,7 +38,9 @@ sidebar:
 - Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/2021/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 国内学会発表
-
+- 下間宇晟，森田武史： ユーザ欲求に対応する環境内の物の推論に基づく対話ナビゲーションシステムのためのプロンプト圧縮手法，人工知能学会第二種研究会 第 65 回セマンティックウェブとオントロジー研究会，SIG-SWO-065-05 (2025.3)．<!-- 2025/3/7 -->
+- 三留慧祐，森田武史：大規模視覚言語モデルおよびシーングラフを用いた画像生成プロンプト作成支援，人工知能学会第二種研究会 第 65 回セマンティックウェブとオントロジー研究会，SIG-SWO-065-04 (2025.3)．<!-- 2025/3/7 -->
+- 後藤颯志，チャクラボルティ シュデシナ，森田武史，吉川友也，山本泰智，江上周作，鵜飼孝典，福田賢一郎：動画キャプション生成とMetaVDを用いた動作認識データセットの拡張，人工知能学会第二種研究会 第 65 回セマンティックウェブとオントロジー研究会，SIG-SWO-065-03 (2025.3)．<!-- 2025/3/7 -->
 - 李想，チャクラボルティ シュデシナ，森田武史：知識グラフと大規模言語モデルに基づく基礎疾患を有する患者を対象としたレシピ推薦システムの検討，人工知能学会第二種研究会 第 63 回セマンティックウェブとオントロジー研究会，SIG-SWO-063-11，DOI：[10.11517/jsaisigtwo.2024.SWO-063_10](https://doi.org/10.11517/jsaisigtwo.2024.SWO-063_10) (2024.9)．<!-- 2024/9/5 -->
 - 青山仁，チャクラボルティ シュデシナ，森田武史，鵜飼孝典，江上周作，福田賢一郎：大規模言語モデルを用いたオブジェクトの状態と関係に基づく家庭内タスクプランニング，人工知能学会第二種研究会 第 63 回セマンティックウェブとオントロジー研究会，SIG-SWO-063-10，DOI：[10.11517/jsaisigtwo.2024.SWO-063_09](https://doi.org/10.11517/jsaisigtwo.2024.SWO-063_09) (2024.9)．<!-- 2024/9/5 -->
 - 三辻史哉，澤村勇輝，森田武史：Wikidata を対象とした GPT に基づくエンティティリンキング，2024 年度人工知能学会全国大会（第 38 回），1G5-OS-26b-03，DOI：[10.11517/pjsai.JSAI2024.0_1G5OS26b03](https://doi.org/10.11517/pjsai.JSAI2024.0_1G5OS26b03) (2024.5)．<!-- 2024/5/28 -->
