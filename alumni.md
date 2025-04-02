@@ -3,6 +3,20 @@ title: 過去の構成員
 layout: single
 ---
 
+## 2024年度
+### 博士前期課程
+* 青山仁
+* 李想
+
+### 学部4年生
+* 渋谷匠吾
+* 五十嵐尚裕
+* 小林彩翔
+* 鈴木 翔貴
+* 鈴木優
+* 三留慧祐
+* 村雲琳奈
+
 ## 2023年度
 ### 助教
 * [谷津元樹](https://www.agnes.aoyama.ac.jp/iit/in-memory-of-yatsu-motoki-sensei)
