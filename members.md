@@ -6,7 +6,7 @@ layout: single
 * [森田武史](https://takeshi-morita.jp/index-ja.html)
 
 ### 助教
-* [チャクラボルティ シュデシナ](https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?resId=S001803)
+* [チャクラボルティ シュデシナ](https://sudesnac.github.io/)
 
 ### 博士前期課程2年生
 * 穴口史将
