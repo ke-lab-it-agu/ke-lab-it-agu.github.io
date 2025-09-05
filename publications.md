@@ -40,6 +40,8 @@ sidebar:
 - Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/2021/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 国内学会発表
+- 細川泰智，チャクラボルティ シュデシナ，森田武史：RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の段階的評価，人工知能学会第二種研究会 第66回セマンティックウェブとオントロジー研究会，SIG-SWO-066-07 (2025.9)．<!-- 2025/9/5 -->
+- 後藤颯志，チャクラボルティ シュデシナ，森田武史，太田葵，Imrattanatrai Wiradee，浅田真生，江上周作，鵜飼孝典，濱崎雅弘：大規模視覚言語モデルを用いた日常生活動画からのイベント中心知識グラフ生成の検討，人工知能学会第二種研究会 第66回セマンティックウェブとオントロジー研究会，SIG-SWO-066-05 (2025.9)．<!-- 2025/9/4 -->
 - 後藤颯志，チャクラボルティ シュデシナ，森田武史，吉川友也，山本泰智，江上周作，鵜飼孝典，福田賢一郎：動画キャプション生成を用いた動作認識データセットの拡張，2025年度人工知能学会全国大会（第39回），4I1-GS-11-05，DOI: [10.11517/pjsai.JSAI2025.0_4I1GS1105](https://doi.org/10.11517/pjsai.JSAI2025.0_4I1GS1105) (2025.5)．<!-- 2025/5/30-->
 - 下間宇晟，森田武史：マレーの欲求理論を用いた大規模言語モデルに基づく対話ナビゲーションシステムのためのプロンプト圧縮手法，2025年度人工知能学会全国大会（第39回），4L1-OS-36-01，DOI: [10.11517/pjsai.JSAI2025.0_4L1OS3601](https://doi.org/10.11517/pjsai.JSAI2025.0_4L1OS3601) (2025.5)．<!-- 2025/5/30-->
 - 細川泰智，森田武史：RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の評価，2025年度人工知能学会全国大会（第39回），3P1-OS-46a-04，DOI: [10.11517/pjsai.JSAI2025.0_3P1OS46a04](https://doi.org/10.11517/pjsai.JSAI2025.0_3P1OS46a04) (2025.5)．<!-- 2025/5/29-->
