@@ -14,6 +14,8 @@ main:
 news:
   - title: "ニュース"
     children:
+      - title: "2023年度ニュース"
+        url: /news/#2023年度ニュース
       - title: "2022年度ニュース"
         url: /news/#2022年度ニュース
       - title: "2021年度ニュース"
