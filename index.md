@@ -11,7 +11,8 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 # ニュース
 
 ## 2025年度ニュース
-* 2025年11月4日：学部4年生の細川泰智さんと博士前期課程1年生の下間宇晟さんが[The 24th International Semantic Web Conference (ISWC2025)](https://iswc2025.semanticweb.org/#/program/acceptedpapers) Poster and Demos Trackで発表しました．
+* 2025年11月：学部4年生の細川泰智さんが[2025年度(第12回)人工知能学会全国大会学生奨励賞（オーガナイズドセッション口頭発表部門）](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf-s/#CONFERENCE_S)を受賞しました．
+* 2025年11月4日：学部4年生の細川泰智さんと博士前期課程1年生の下間宇晟さんが[The 24th International Semantic Web Conference (ISWC2025)](https://iswc2025.semanticweb.org/#/program/acceptedpapers) Posters and Demos Trackで発表しました．
 * 2025年10月18日：2025年度第3回鷲見研・楽研・森田研合同研究発表会が開催されました．
 * 2025年9月4日-5日：学部4年生の細川泰智さんと博士前期課程2年生の後藤颯志さんが[第66回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/66program)で発表しました．
 * 2025年9月4日：森田武史教授が[第66回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/66program)で招待講演（セマンティックウェブとオントロジー研究の歩みと今後の展望）を行いました．

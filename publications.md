@@ -7,7 +7,9 @@ sidebar:
 
 ## 受賞
 
-- 2021 年度[人工知能学会研究会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/)  
+- [2025年度(第12回)人工知能学会全国大会学生奨励賞（オーガナイズドセッション口頭発表部門）](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf-s/#CONFERENCE_S)，「RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の評価」[3P1-OS-46a-04] 細川 泰智. 
+  細川泰智，森田武史：RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の評価，2025年度人工知能学会全国大会（第39回），3P1-OS-46a-04，DOI: [10.11517/pjsai.JSAI2025.0_3P1OS46a04](https://doi.org/10.11517/pjsai.JSAI2025.0_3P1OS46a04) (2025.5)．の発表に対して授与された賞．
+- [2021年度人工知能学会研究会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/)  
   吉兼拓生，谷津元樹，森田武史：知識グラフに基づく質問応答における論理形式パターンを用いた論理形式検索の高速化，人工知能学会 第55回セマンティックウェブとオントロジー研究会，SIG-SWO-055-03，DOI：[10.11517/jsaisigtwo.2021.SWO-055_03](https://doi.org/10.11517/jsaisigtwo.2021.SWO-055_03) (2021.11)．の発表に対して授与された賞．
 
 ## 書籍
