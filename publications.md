@@ -29,6 +29,7 @@ sidebar:
 - 浅野歴，谷津元樹，森田武史：キャプション及び物体認識ラベルを用いた描画内容に即した駄洒落文の選択手法，画像ラボ，Vol.34，No.3，pp.59-65，[雑誌入手先](https://www.nikko-pb.co.jp/products/detail.php?product_id=5491) (2023.3).
 
 ## 国際学会発表
+- Hiroaki Shimoma, Sudesna Chakraborty, Takeshi Morita, Aoi Ohta, Masaki Asada, Shusaku Egami, Takanori Ugai, Masahiro Hamasaki: RAG-Enhanced Prompt Compression with Need-Oriented Knowledge for Dialog Based Embodied Navigation, Proceedings of the 18th International Conference on Agents and Artificial Intelligence (2026.3) <!-- 2026/3/7 -->
 - Taichi Hosokawa, Sudesna Chakraborty, Takeshi Morita: Assessing Logical Inference Capabilities of Large Language Models through RDF Schema Entailment Rules: A Multi-Level Evaluation, Joint Proceedings of Industry, Doctoral Consortium, Posters and Demos of the 24th International Semantic Web Conference (ISWC-C 2025), pp. 304-308, [Paper](https://ceur-ws.org/Vol-4085/paper50.pdf) (2025.11) <!-- 2025/11/4 -->
 - Hiroaki Shimoma, Sudesna Chakraborty, Takeshi Morita: Prompt Compression for Dialog Navigation with Need-Oriented Environmental Knowledge Base and Large Language Models, Joint Proceedings of Industry, Doctoral Consortium, Posters and Demos of the 24th International Semantic Web Conference (ISWC-C 2025), pp. 264-264, [Paper](https://ceur-ws.org/Vol-4085/paper42.pdf) (2025.11) <!-- 2025/11/4 -->
 - Kawashima, S. Chakraborty, S. "Neural correlates of sentence comprehension using sentence embedding on narrative fMRI data". Aperture Neuro. (2025, June 13). OHBM 2025 Annual Meeting Abstract Book. Organization for Human Brain Mapping (OHBM), Brisbane, Australia. [https://doi.org/10.5281/zenodo.15641972](https://doi.org/10.5281/zenodo.15641972)
@@ -43,6 +44,9 @@ sidebar:
 - Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/2021/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 国内学会発表
+- 穴口史将，チャクラボルティ シュデシナ，森田武史，太田葵，浅田真生，江上周作，鵜飼孝典，濱崎雅弘：コストと精度を考慮した質問と文書に基づく適応的RAG選択，言語処理学会第32回年次大会，B7-4，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B7-4.pdf) (2026.3)．<!-- 2026/3/12 -->
+- 三辻史哉，チャクラボルティ シュデシナ，森田武史，吉川友也，山本泰智，太田葵，江上周作，鵜飼孝典，濱崎雅弘：常識知識グラフを活用した動作ラベル間の等価関係の自動構築手法，言語処理学会第32回年次大会，C6-18，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C6-18.pdf) (2026.3)．<!-- 2026/3/11 -->
+- 後藤颯志，チャクラボルティ シュデシナ，森田武史，太田葵，Imrattanatrai Wiradee，浅田真生，江上周作，鵜飼孝典，濱崎雅弘：大規模視覚言語モデルを用いた日常生活動画からのイベント中心知識グラフ生成，言語処理学会第32回年次大会，C4-10，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C4-10.pdf) (2026.3)．<!-- 2026/3/10 -->
 - 細川泰智，チャクラボルティ シュデシナ，森田武史：RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の段階的評価，人工知能学会第二種研究会 第66回セマンティックウェブとオントロジー研究会，SIG-SWO-066-07，DOI：[10.11517/jsaisigtwo.2025.SWO-066_07](https://doi.org/10.11517/jsaisigtwo.2025.SWO-066_07) (2025.9)．<!-- 2025/9/5 -->
 - 後藤颯志，チャクラボルティ シュデシナ，森田武史，太田葵，Imrattanatrai Wiradee，浅田真生，江上周作，鵜飼孝典，濱崎雅弘：大規模視覚言語モデルを用いた日常生活動画からのイベント中心知識グラフ生成の検討，人工知能学会第二種研究会 第66回セマンティックウェブとオントロジー研究会，SIG-SWO-066-05，DOI：[10.11517/jsaisigtwo.2025.SWO-066_05](https://doi.org/10.11517/jsaisigtwo.2025.SWO-066_05) (2025.9)．<!-- 2025/9/4 -->
 - 後藤颯志，チャクラボルティ シュデシナ，森田武史，吉川友也，山本泰智，江上周作，鵜飼孝典，福田賢一郎：動画キャプション生成を用いた動作認識データセットの拡張，2025年度人工知能学会全国大会（第39回），4I1-GS-11-05，DOI: [10.11517/pjsai.JSAI2025.0_4I1GS1105](https://doi.org/10.11517/pjsai.JSAI2025.0_4I1GS1105) (2025.5)．<!-- 2025/5/30-->
