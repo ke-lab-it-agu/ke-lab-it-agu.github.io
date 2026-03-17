@@ -5,6 +5,40 @@ sidebar:
   nav: "news"
 ---
 
+## 2025年度ニュース
+* 2026年3月14日：学部4年生の石井優美さん，鍛治百花さん，小林聖英さんの卒業研究の成果を[第68回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/68program)にて発表しました．
+* 2026年3月10日-12日：博士前期課程2年生の穴口史将さん，後藤颯志さん，三辻史哉さんが[言語処理学会第32回年次大会](https://www.anlp.jp/nlp2026/)で発表しました．
+* 2026年3月7日：博士前期課程1年の下間宇晟さんが[The 18th International Conference on Agents and Artificial Intelligence (ICAART2026)](https://icaart.scitevents.org/?y=2026)で発表しました．
+* 2026年2月9日：2025年度理工学研究科知能情報コース修士論文発表会が開催されました．
+* 2026年2月4日・5日：2025年度情報テクノロジー学科卒業研究発表会が開催されました．
+* 2025年12月13日：2025年度第4回鷲見研・楽研・森田研合同研究発表会が開催されました．
+* 2025年11月：学部4年生の細川泰智さんが[2025年度(第12回)人工知能学会全国大会学生奨励賞（オーガナイズドセッション口頭発表部門）](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf-s/#CONFERENCE_S)を受賞しました．
+* 2025年11月4日：学部4年生の細川泰智さんと博士前期課程1年生の下間宇晟さんが[The 24th International Semantic Web Conference (ISWC2025)](https://iswc2025.semanticweb.org/#/program/acceptedpapers) Posters and Demos Trackで発表しました．
+* 2025年10月18日：2025年度第3回鷲見研・楽研・森田研合同研究発表会が開催されました．
+* 2025年9月4日-5日：学部4年生の細川泰智さんと博士前期課程2年生の後藤颯志さんが[第66回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/66program)で発表しました．
+* 2025年9月4日：森田武史教授が[第66回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/66program)で招待講演（セマンティックウェブとオントロジー研究の歩みと今後の展望）を行いました．
+* 2025年8月2日：2025年度第2回鷲見研・楽研・森田研合同研究発表会が開催されました．
+* 2025年6月24日-28日：博士前期課程1年生の川島世慈さんとチャクラボルティ シュデシナ助教が[The Organization for Human Brain Mapping (OHBM2025)](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229)で発表しました．
+* 2025年6月14日：2025年度第1回鷲見研・森田研合同研究発表会が開催されました．
+* 2025年5月28日-30日：学部4年生の細川泰智さん，博士前期課程1年生の下間宇晟さん，博士前期課程2年生の穴口史将さん，後藤颯志さん，三辻史哉さんが[2025年度人工知能学会全国大会（第39回）](https://www.ai-gakkai.or.jp/jsai2025/)で発表しました．
+* 2025年4月2日：「[構成員]({{site.baseurl}}/members)」ページに，2025年度構成員を記載しました．
+
+## 2024年度ニュース
+* 2025年3月7日：学部4年生の下間宇晟さん，三留慧祐さん，博士前期課程1年の後藤颯志さんが[第65回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/65program)で発表しました．
+* 2025年2月24日：博士前期課程2年の青山仁さんが[The 17th International Conference on Agents and Artificial Intelligence (ICAART2025)](https://icaart.scitevents.org/?y=2025)で発表しました．
+* 2025年2月7日：2024年度理工学研究科知能情報コース修士論文発表会が開催されました．
+* 2025年2月4日・5日：2024年度情報テクノロジー学科卒業研究発表会が開催されました．
+* 2024年12月14日：2024年度第4回鷲見研・楽研・森田研合同研究発表会が開催されました．
+* 2024年11月26日-29日：博士前期課程1年生の穴口史将さんと三辻史哉さんが[The Twelfth International Symposium on Computing and Networking (CANDAR 2024)](https://is-candar.org/)と[9th International Workshop on GPU Computing and AI](https://is-candar.org/gca24)で発表しました．
+* 2024年11月1日-2日：伊豆高原で研究室合宿を行いました．
+* 2024年11月1日：2024年3月に博士前期課程を卒業した澤村勇輝さん，森田教授の論文「[Wikidata を対象としたPointer Network に基づく日本語エンティティリンキングモデルの構築と評価](https://doi.org/10.1527/tjsai.39-6_C-O42)」が人工知能学会論文誌に掲載されました．[産業技術総合研究所人工知能研究センターデータ知識融合研究チーム](https://www.airc.aist.go.jp/dkirt/)との共同研究の成果です．
+* 2024年10月19日：2024年度第3回鷲見研・森田研合同研究発表会が開催されました．
+* 2024年9月5日：博士前期課程2年の青山仁さんと李想さんが[第63回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/63program)で発表しました．
+* 2024年7月20日：2024年度第2回鷲見研・楽研・森田研合同研究発表会が開催されました．
+* 2024年6月8日：2024年度第1回鷲見研・森田研合同研究発表会が開催されました．
+* 2024年5月28日：博士前期課程1年生の穴口史将さん，三辻史哉さん，博士前期課程2年の青山仁さん，森田教授（2024年3月に理工学部を卒業した内山響さんの卒業研究成果）が[2024年度人工知能学会全国大会（第38回）](https://www.ai-gakkai.or.jp/jsai2024/)で発表しました．
+* 2024年4月6日：「[構成員]({{site.baseurl}}/members)」ページに，2024年度構成員を記載しました．
+
 ## 2023年度ニュース
 * 2024年3月23日・24日：学部4年生の穴口史将さん，後藤颯志さん，三辻史哉さん，博士前期課程2年の浅野歴さんと森俊人さんが[第62回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/62program)で発表しました．
 * 2024年3月17日：森田教授が[情報処理学会 第86回全国大会](https://onsite.gakkai-web.net/ipsj/abstract/html/program/program4.html#S7B)で発表しました．
@@ -23,7 +57,7 @@ sidebar:
 * 2023年6月8日・9日：博士前期課程1年生の青山仁さんと博士前期課程2年の澤村勇輝さんと森俊人さんが[2023年度人工知能学会全国大会（第37回）](https://www.ai-gakkai.or.jp/jsai2023/)で発表しました．
 * 2023年5月14日：博士前期課程2年生の浅野歴さん，濱道光希さん，牟耕さん，森俊人さん，矢野翔平さんらのチーム（浅野歴さんと森俊人さんは当研究室所属）が，人工知能学会セマンティックウェブとオントロジー研究会主催の[ナレッジグラフ推論チャレンジ【実社会版】2022](https://challenge.knowledge-graph.jp/results/results2022.html) において，優秀賞を受賞しました．浅野さんらは，理工学研究科におけるデータサイエンティスト育成プログラムの課題解決型演習の一環として，本チャレンジに取り組みました．
 * 2023年5月1日：2022年3月に博士前期課程を卒業した吉兼拓生さん，谷津助教，森田教授の論文「[知識グラフに基づく質問応答システムにおける論理形式パターンを用いた論理形式検索の改善](https://doi.org/10.1527/tjsai.38-3_I-M92)」が人工知能学会論文誌に掲載されました．
-* 2023年4月11日：「[構成員]({{site.baseurl}}/members)」ページに，2023年度構成員を追加しました．
+* 2023年4月11日：「[構成員]({{site.baseurl}}/members)」ページに，2023年度構成員を記載しました．
 * 2023年4月1日：森田教授が申請した科研費基盤研究(C)の研究課題：[常識・行動・領域知識に基づき家庭内行動を推論する対話エージェントシステムの開発](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K11221/)（23K11221）が採択されました．
 
 ## 2022年度ニュース
@@ -44,7 +78,7 @@ sidebar:
 * 2022年6月22日：2022年3月に博士前期課程を卒業した吉兼拓生さん，谷津助教，森田准教授が人工知能学会 第55回セマンティックウェブとオントロジー研究会で発表した研究「[知識グラフに基づく質問応答における論理形式パターンを用いた論理形式検索の高速化](https://doi.org/10.11517/jsaisigtwo.2021.SWO-055_03)」が2021年度[人工知能学会研究会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/)を受賞しました．
 * 2022年6月15日・17日：博士前期課程1年生の浅野歴さんと澤村勇輝さんが[2022年度人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)で発表しました．
 * 2022年6月6日：2022年3月に博士前期課程を卒業したスホルクワイクさん，谷津助教，森田准教授の論文「[An Interactive Virtual Home Navigation System Based on Home Ontology and Commonsense Reasoning](https://doi.org/10.3390/info13060287)」がMDPI (Multidisciplinary Digital Publishing Institute)の[Special Issue "Knowledge Graph Technology and Its Applications"](https://www.mdpi.com/journal/information/special_issues/knowledge_graph_technology)に掲載されました．
-* 2022年4月16日：「[構成員]({{site.baseurl}}/members)」ページに，2022年度構成員を追加しました．
+* 2022年4月16日：「[構成員]({{site.baseurl}}/members)」ページに，2022年度構成員を記載しました．
 
 ## 2021年度ニュース
 * 2022年3月17日：森田武史准教授が分担執筆（pp. 435-455 [Generating ROS Codes from User-Level Workflow in PRINTEPS](https://doi.org/10.1007/978-3-030-93547-4_19)）した書籍「[Domain-Specific Conceptual Modeling](https://doi.org/10.1007/978-3-030-93547-4)」がSpringerから出版されました．
@@ -64,7 +98,7 @@ sidebar:
 * 2021年7月30日：2021年度理工学研究科知能情報コース修士論文中間発表会が開催されました．
 * 2021年7月20日：森田武史准教授が[NEMO Summerschool 2021](https://nemo.omilab.org/2021/)で発表しました．
 * 2021年6月19日：2021年度第1回鷲見研・楽研・森田研合同研究発表会が開催されました．
-* 2021年4月22日：「[構成員]({{site.baseurl}}/members)」ページに，2021年度構成員を追加しました．
+* 2021年4月22日：「[構成員]({{site.baseurl}}/members)」ページに，2021年度構成員を記載しました．
 
 ## 2020年度ニュース
 * 2021年3月12日：学部4年生の鈴木純一郎さんがFJ-WISE: France-Japan Workshop on Information Science and Engineeringで発表しました．
