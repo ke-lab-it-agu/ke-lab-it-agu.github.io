@@ -2,7 +2,7 @@
 title: 過去の構成員
 layout: single
 ---
-## 2025年度
+## 2025年度構成員
 ### 教授
 * [森田武史](https://takeshi-morita.jp/index-ja.html)
 
@@ -38,7 +38,7 @@ layout: single
 * 宮田明
 * 山岸竜也
 
-## 2024年度
+## 2024年度構成員
 ### 教授
 * [森田武史](https://takeshi-morita.jp/index-ja.html)
 
@@ -66,7 +66,7 @@ layout: single
 * 三留慧祐
 * 村雲琳奈
 
-## 2023年度
+## 2023年度構成員
 ### 教授
 * [森田武史](https://takeshi-morita.jp/index-ja.html)
 
@@ -94,7 +94,7 @@ layout: single
 * 宮本侑弥
 * 矢野竜悠
 
-## 2022年度
+## 2022年度構成員
 ### 教授
 * [森田武史](https://takeshi-morita.jp/index-ja.html)
 
@@ -117,7 +117,7 @@ layout: single
 * 中澤優
 * 山本泰誠
 
-## 2021年度
+## 2021年度構成員
 ### 教授
 * [森田武史](https://takeshi-morita.jp/index-ja.html)
 
@@ -141,7 +141,7 @@ layout: single
 * 中尾仁哉
 * 森俊人
 
-## 2020年度
+## 2020年度構成員
 ### 教授
 * [森田武史](https://takeshi-morita.jp/index-ja.html)
 

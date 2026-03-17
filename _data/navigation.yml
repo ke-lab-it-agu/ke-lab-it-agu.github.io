@@ -52,3 +52,19 @@ publications:
         url: /publications/#国内学会発表
       - title: "その他"
         url: /publications/#その他
+
+alumni:
+  - title: "過去の構成員"
+    children:
+      - title: "2025年度構成員"
+        url: /alumni/#2025年度構成員
+      - title: "2024年度構成員"
+        url: /alumni/#2024年度構成員 
+      - title: "2023年度構成員"
+        url: /alumni/#2023年度構成員
+      - title: "2022年度構成員"
+        url: /alumni/#2022年度構成員
+      - title: "2021年度構成員"
+        url: /alumni/#2021年度構成員
+      - title: "2020年度構成員"
+        url: /alumni/#2020年度構成員
