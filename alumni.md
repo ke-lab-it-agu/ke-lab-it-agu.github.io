@@ -1,6 +1,8 @@
 ---
 title: 過去の構成員
 layout: single
+sidebar:
+  nav: "alumni"
 ---
 ## 2025年度構成員
 ### 教授
