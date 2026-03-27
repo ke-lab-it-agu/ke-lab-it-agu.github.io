@@ -44,9 +44,9 @@ sidebar:
 - Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/2021/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 国内学会発表
-- 小林聖英，森田武史：Wikidataを対象としたメンション補助情報と検索拡張生成に基づくエンティティリンキング，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-05，DOI：[10.11517/jsaisigtwo.2026.SWO-068_05](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_05) (2026.3)．<!-- 2026/3/14 -->
-- 鍛治百花，森田武史：Wikidataの編集履歴に基づくプロパティ不変性の定量化，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-04，DOI：[10.11517/jsaisigtwo.2026.SWO-068_04](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_04) (2026.3)．<!-- 2026/3/14 -->
-- 石井優美，穴口史将，森田武史：判決文における伏字箇所を対象とした固有表現カテゴリ分類および実体同定に基づく代替符号置換，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-03，DOI：[10.11517/jsaisigtwo.2026.SWO-068_03](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_03) (2026.3)．<!-- 2026/3/14 -->
+- 小林聖英，森田武史：Wikidataを対象としたメンション補助情報と検索拡張生成に基づくエンティティリンキング，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-05，DOI：[10.11517/jsaisigtwo.2026.SWO-068_05](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_05) (2026.3)．<!-- 2026/3/16 -->
+- 鍛治百花，森田武史：Wikidataの編集履歴に基づくプロパティ不変性の定量化，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-04，DOI：[10.11517/jsaisigtwo.2026.SWO-068_04](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_04) (2026.3)．<!-- 2026/3/16 -->
+- 石井優美，穴口史将，森田武史：判決文における伏字箇所を対象とした固有表現カテゴリ分類および実体同定に基づく代替符号置換，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-03，DOI：[10.11517/jsaisigtwo.2026.SWO-068_03](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_03) (2026.3)．<!-- 2026/3/16 -->
 - 穴口史将，チャクラボルティ シュデシナ，森田武史，太田葵，浅田真生，江上周作，鵜飼孝典，濱崎雅弘：コストと精度を考慮した質問と文書に基づく適応的RAG選択，言語処理学会第32回年次大会，B7-4，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B7-4.pdf) (2026.3)．<!-- 2026/3/12 -->
 - 三辻史哉，チャクラボルティ シュデシナ，森田武史，吉川友也，山本泰智，太田葵，江上周作，鵜飼孝典，濱崎雅弘：常識知識グラフを活用した動作ラベル間の等価関係の自動構築手法，言語処理学会第32回年次大会，C6-18，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C6-18.pdf) (2026.3)．<!-- 2026/3/11 -->
 - 後藤颯志，チャクラボルティ シュデシナ，森田武史，太田葵，Imrattanatrai Wiradee，浅田真生，江上周作，鵜飼孝典，濱崎雅弘：大規模視覚言語モデルを用いた日常生活動画からのイベント中心知識グラフ生成，言語処理学会第32回年次大会，C4-10，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C4-10.pdf) (2026.3)．<!-- 2026/3/10 -->

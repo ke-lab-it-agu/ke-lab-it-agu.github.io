@@ -6,7 +6,7 @@ sidebar:
 ---
 
 ## 2025年度ニュース
-* 2026年3月14日：学部4年生の石井優美さん，鍛治百花さん，小林聖英さんの卒業研究の成果を[第68回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/68program)にて発表しました．
+* 2026年3月16日：学部4年生の石井優美さん，鍛治百花さん，小林聖英さんの卒業研究の成果を[第68回 セマンティックウェブとオントロジー研究会](https://www.sigswo.org/papers/68program)にて発表しました．
 * 2026年3月10日-12日：博士前期課程2年生の穴口史将さん，後藤颯志さん，三辻史哉さんが[言語処理学会第32回年次大会](https://www.anlp.jp/nlp2026/)で発表しました．
 * 2026年3月7日：博士前期課程1年の下間宇晟さんが[The 18th International Conference on Agents and Artificial Intelligence (ICAART2026)](https://icaart.scitevents.org/?y=2026)で発表しました．
 * 2026年2月9日：2025年度理工学研究科知能情報コース修士論文発表会が開催されました．
