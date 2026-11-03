@@ -6,7 +6,7 @@ sidebar:
 ---
 
 ## 受賞
-
+- [2026年度(第40回)人工知能学会全国大会優秀賞（ポスターセッション発表部門）](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/#CONFERENCE)，「裁決文を対象とした大規模言語モデルの埋め込み表現に基づくセマンティック検索システム」[5Yin-A-17]，山岸 竜也，森田 武史. 
 - [2025年度人工知能学会研究会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/)  
   細川泰智，チャクラボルティ シュデシナ，森田武史：RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の段階的評価，人工知能学会第二種研究会 第66回セマンティックウェブとオントロジー研究会，SIG-SWO-066-07，DOI：[10.11517/jsaisigtwo.2025.SWO-066_07](https://doi.org/10.11517/jsaisigtwo.2025.SWO-066_07) (2025.9)．の発表に対して授与された賞．
 - [2025年度(第12回)人工知能学会全国大会学生奨励賞（オーガナイズドセッション口頭発表部門）](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf-s/#CONFERENCE_S)，「RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の評価」[3P1-OS-46a-04] 細川 泰智.   
@@ -31,6 +31,8 @@ sidebar:
 - 浅野歴，谷津元樹，森田武史：キャプション及び物体認識ラベルを用いた描画内容に即した駄洒落文の選択手法，画像ラボ，Vol.34，No.3，pp.59-65，[雑誌入手先](https://www.nikko-pb.co.jp/products/detail.php?product_id=5491) (2023.3).
 
 ## 国際学会発表
+- Taichi Hosokawa, Sudesna Chakraborty, Takeshi Morita: RDFS-LLM-Bench: A Benchmark for Evaluating RDF Schema Inference in LLMs, The Semantic Web – ISWC 2026, Lecture Notes in Computer Science, vol 17128, pp. 221--239, DOI: [10.1007/978-3-032-42029-9_12](https://doi.org/10.1007/978-3-032-42029-9_12) (2026.10) <!-- 2026/10/28 -->
+- Takanori Ugai, Takeshi Morita: Reasoning over Hybrid Graphs: Adaptive Causal Path Discovery for Reliable Knowledge Graph RAG, Posters and Demos of the 25th International Semantic Web Conference (ISWC-C 2026) (2026.10) <!-- 2026/10/27 -->
 - Sato, Y., Morita, T., & Chakraborty, S. "Language model sensitivity to narrative content and individual patterns in predicting BOLD signal". Aperture Neuro. (2026, June 23). OHBM 2026 Annual Meeting Abstract Book. Organization for Human Brain Mapping (OHBM), Bordeaux, France. [10.5281/zenodo.20817576](https://doi.org/10.5281/zenodo.20817576)
 - Kawashima, S., Morita, T., & Chakraborty, S. "Assessing sentence-level modulation for multimodal BOLD prediction during narrative comprehension". Aperture Neuro. (2026, June 23). OHBM 2026 Annual Meeting Abstract Book. Organization for Human Brain Mapping (OHBM), Bordeaux, France. [10.5281/zenodo.20817576](https://doi.org/10.5281/zenodo.20817576)
 - Hiroaki Shimoma, Sudesna Chakraborty, Takeshi Morita, Aoi Ohta, Masaki Asada, Shusaku Egami, Takanori Ugai, Masahiro Hamasaki: RAG-Enhanced Prompt Compression with Need-Oriented Knowledge for Dialog Based Embodied Navigation, Proceedings of the 18th International Conference on Agents and Artificial Intelligence - Volume 4: ICAART, SciTePress, pp.3055-3062, DOI: [10.5220/0014352900004052](https://doi.org/10.5220/0014352900004052) (2026.3) <!-- 2026/3/7 -->
@@ -48,13 +50,14 @@ sidebar:
 - Alan Schalkwijk, Motoki Yatsu, Takeshi Morita: Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence (KGR4XAI), [Paper](https://kgr4xai.ikgrc.org/2021/papers/KGR4XAI_2021_paper_2_cr.pdf) (2021.12). <!-- 2021/12/6 -->
 
 ## 国内学会発表
-- 下間宇晟，チャクラボルティ シュデシナ，森田武史，太田葵，浅田真生，江上周作，鵜飼孝典，濱崎雅弘：欲求指向知識とRAGを用いた対話ナビゲーションシステムのためのプロンプト圧縮手法，2026年度人工知能学会全国大会（第40回），5G3-OS-37b-03 (2026.6)．<!-- 2026/6/12 -->
-- 細川泰智，チャクラボルティ シュデシナ，森田武史：RDFS-LLM-Bench: 大規模言語モデルによるRDFスキーマ推論の多段階評価ベンチマークの提案，2026年度人工知能学会全国大会（第40回），5G3-OS-37b-02 (2026.6)．<!-- 2026/6/12 -->
-- 檜原康汰，森田武史：視覚言語モデルに基づく対話型動画質問応答における自己反省と常識知識グラフを用いた回答の説明可能性向上，2026年度人工知能学会全国大会（第40回），5G3-OS-37b-01 (2026.6)．<!-- 2026/6/12 -->
-- 会田雄斗，森田武史：大規模言語モデルを用いた対話からのユーザ嗜好を考慮した知識獲得，2026年度人工知能学会全国大会（第40回）5G2-OS-37a-03 (2026.6)．<!-- 2026/6/12 -->
-- 山岸竜也，穴口史将，森田武史：裁決文を対象とした大規模言語モデルの埋め込み表現に基づくセマンティック検索システム，2026年度人工知能学会全国大会（第40回），5Yin-A-17 (2026.6)．<!-- 2026/6/12 -->
+- 鵜飼孝典，森田武史，濱崎雅弘：ナレッジグラフ品質のGraph-Based RAGの検索性能への影響，人工知能学会第二種研究会 第69回セマンティックウェブとオントロジー研究会，SIG-SWO-069-06，DOI：[10.11517/jsaisigtwo.2026.SWO-069_06](https://doi.org/10.11517/jsaisigtwo.2026.SWO-069_06) (2026.3)．<!-- 2026/9/16 -->
+- 下間宇晟，チャクラボルティ シュデシナ，森田武史，太田葵，浅田真生，江上周作，鵜飼孝典，濱崎雅弘：欲求指向知識とRAGを用いた対話ナビゲーションシステムのためのプロンプト圧縮手法，2026年度人工知能学会全国大会（第40回），5G3-OS-37b-03，DOI: [10.11517/pjsai.JSAI2026.0_5G3OS37b03](https://doi.org/10.11517/pjsai.JSAI2026.0_5G3OS37b03) (2026.6)．<!-- 2026/6/12 -->
+- 細川泰智，チャクラボルティ シュデシナ，森田武史：RDFS-LLM-Bench: 大規模言語モデルによるRDFスキーマ推論の多段階評価ベンチマークの提案，2026年度人工知能学会全国大会（第40回），5G3-OS-37b-02，DOI: [10.11517/pjsai.JSAI2026.0_5G3OS37b02](https://doi.org/10.11517/pjsai.JSAI2026.0_5G3OS37b02) (2026.6)．<!-- 2026/6/12 -->
+- 檜原康汰，森田武史：視覚言語モデルに基づく対話型動画質問応答における自己反省と常識知識グラフを用いた回答の説明可能性向上，2026年度人工知能学会全国大会（第40回），5G3-OS-37b-01，DOI: [10.11517/pjsai.JSAI2026.0_5G3OS37b01](https://doi.org/10.11517/pjsai.JSAI2026.0_5G3OS37b01) (2026.6)．<!-- 2026/6/12 -->
+- 会田雄斗，森田武史：大規模言語モデルを用いた対話からのユーザ嗜好を考慮した知識獲得，2026年度人工知能学会全国大会（第40回）5G2-OS-37a-03，DOI: [10.11517/pjsai.JSAI2026.0_5G2OS37a03](https://doi.org/10.11517/pjsai.JSAI2026.0_5G2OS37a03) (2026.6)．<!-- 2026/6/12 -->
+- 山岸竜也，穴口史将，森田武史：裁決文を対象とした大規模言語モデルの埋め込み表現に基づくセマンティック検索システム，2026年度人工知能学会全国大会（第40回），5Yin-A-17，DOI: [10.11517/pjsai.JSAI2026.0_5YinA17](https://doi.org/10.11517/pjsai.JSAI2026.0_5YinA17) (2026.6)．<!-- 2026/6/12 -->
 - 細川泰智，シュデシナ チャクラボルティ， 森田武史：研究会優秀賞：「RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の段階的評価」，2026年度人工知能学会全国大会（第40回），4Yin-A-KA05 (2026.6)．<!-- 2026/6/11 -->
-- 岡野航希，穴口史将，森田武史：類似事例の検索拡張生成を用いた判決・裁決文の抽出型要約生成，2026年度人工知能学会全国大会（第40回），4Yin-B-52 (2026.6)．<!-- 2026/6/11 -->
+- 岡野航希，穴口史将，森田武史：類似事例の検索拡張生成を用いた判決・裁決文の抽出型要約生成，2026年度人工知能学会全国大会（第40回），4Yin-B-52，DOI: [10.11517/pjsai.JSAI2026.0_4YinB52](https://doi.org/10.11517/pjsai.JSAI2026.0_4YinB52) (2026.6)．<!-- 2026/6/11 -->
 - 小林聖英，森田武史：Wikidataを対象としたメンション補助情報と検索拡張生成に基づくエンティティリンキング，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-05，DOI：[10.11517/jsaisigtwo.2026.SWO-068_05](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_05) (2026.3)．<!-- 2026/3/16 -->
 - 鍛治百花，森田武史：Wikidataの編集履歴に基づくプロパティ不変性の定量化，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-04，DOI：[10.11517/jsaisigtwo.2026.SWO-068_04](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_04) (2026.3)．<!-- 2026/3/16 -->
 - 石井優美，穴口史将，森田武史：判決文における伏字箇所を対象とした固有表現カテゴリ分類および実体同定に基づく代替符号置換，人工知能学会第二種研究会 第68回セマンティックウェブとオントロジー研究会，SIG-SWO-068-03，DOI：[10.11517/jsaisigtwo.2026.SWO-068_03](https://doi.org/10.11517/jsaisigtwo.2026.SWO-068_03) (2026.3)．<!-- 2026/3/16 -->

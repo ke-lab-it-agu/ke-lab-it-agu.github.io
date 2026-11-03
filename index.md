@@ -11,6 +11,10 @@ excerpt: "青山学院大学 理工学部 情報テクノロジー学科 <br/> �
 # ニュース
 
 ## 2026年度ニュース
+* 2026年11月1日：2026年11月：博士前期課程1年生の山岸竜也さんと森田武史教授がが[2026年度(第40回)人工知能学会全国大会優秀賞（ポスターセッション発表部門）](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/#CONFERENCE)を受賞しました．
+* 2026年10月28日：博士前期課程1年生の細川泰智さんが[The 25th International Semantic Web Conference (ISWC2026)](https://iswc2026.semanticweb.org/#/program/acceptedpapers) Resource Trackで発表しました．
+* 2026年8月1日：2026年度第3回鷲見研・楽研・森田研合同研究発表会が開催されました．
+* 2026年7月30日：2026年度第2回鷲見研・森田研合同研究発表会が開催されました．
 * 2026年6月29日：博士前期課程1年生の細川泰智さん，チャクラボルティ シュデシナ助教，森田武史教授が人工知能学会 第66回セマンティックウェブとオントロジー研究会で発表した研究「[RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の段階的評価](ttps://doi.org/10.11517/jsaisigtwo.2025.SWO-066_07)」が2025年度[人工知能学会研究会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/)を受賞しました．
 * 2026年6月14日-18日：博士前期課程1年生の佐藤友哉さんと博士前期課程2年生の川島世慈さんが[The Organization for Human Brain Mapping (OHBM2026)](https://www.humanbrainmapping.org/OHBM2026/)で発表しました．
 * 2026年6月8日-12日：博士前期課程1年生の岡野航希さん，細川泰智さん，山岸竜也さん，会田雄斗さん，檜原康汰さん，博士前期課程2年生の下間宇晟さんが[2026年度人工知能学会全国大会（第40回）](https://www.ai-gakkai.or.jp/jsai2026/)で発表しました．
